@@ -37,5 +37,6 @@ print(f"{distance:.2f}")
 ![](./distance.png)
 
 
+
 ### RESULT:
 Thus distance of two points created successfully
