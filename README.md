@@ -32,10 +32,10 @@ distance = distance(point1,point2)
 print(f"{distance:.2f}")
 ~~~  
 
+###output:
 
-### OUTPUT:
-![](./distance.png)
 
+![Screenshot (6)](https://user-images.githubusercontent.com/121490826/211197876-dd937c97-c8b2-4ff0-af5d-0fd562d42d7d.png)
 
 
 ### RESULT:
